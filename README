@@ -6,8 +6,8 @@ To run the tests:
 
 - assumption: project is in POP_ROOT
 
-cd POP_ROOT/test
-ruby suite.rb
+cd POP_ROOT
+ruby test/suite.rb
 
 
 == This software is GPLv2
